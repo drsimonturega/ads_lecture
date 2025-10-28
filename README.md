@@ -14,8 +14,7 @@ This is the file repository for a lecture in our "applications of data science" 
 
 ## Code development
 
-I include a new Python method that removes folders provided by a list. This is for incorporation into my data science library once I'm happy with the method.
-## Usage instructions
+
 
 Currently we run our analysis in the notebook [vs_supra_rep_002.ipynb](https://github.com/drsimonturega/vs_supra_rep/blob/main/vs_supra_rep_002.ipynb)
 
@@ -25,4 +24,6 @@ There are **.csv* files copied from the suplimentory information in the manscrip
 
 
 ## License information
+
+GNU General Public License v3.0
 
